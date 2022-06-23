@@ -1,0 +1,2 @@
+# Spectral_Clustering
+I implemented spectral clustering machine learning model. this was a very large scale programming challenge for me. I implemented it in C in order to get the best execution time in code and added a python API so it will be easy to use. the algorithm's input is N vectors from d dimension, I used very complex mathematical theories to cluster them into k different clusters according to Euclidian distances.
